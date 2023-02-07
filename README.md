@@ -1,4 +1,4 @@
-## <div align="center">I'm Indra Niko Saputra <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:20px"/></div>
+## <div align="center">I'm Sina! <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:20px"/></div>
 
 <br>
 <div style ="display:flex;" align="center">
@@ -7,7 +7,7 @@
   <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:230px"/>
 </div>
 
-### <div align="center">I'm a Student of Diponegoro University, Indonesia. Still in the process of learning in the world of Web Development</div>
+### <div align="center">I'm a Computer Science Enthusiast!</div>
 
 
 - 🔭 I’m currently looking for internship
@@ -108,6 +108,3 @@ bg_color=#808080/>
 <br />
 
 ------
-
-[Niko-Cloud](https://github.com/Niko-Cloud)
-Last Edited 07/11/2022
