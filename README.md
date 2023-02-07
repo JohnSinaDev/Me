@@ -1,4 +1,4 @@
-## <div align="center">I'm Sina!<img src="https://media.discordapp.net/attachments/760147971861643273/1072522197375131738/R.png?width=559&height=559" style="width:20px"/></div>
+## <div align="center">I'm Sina!<img src="https://media.discordapp.net/attachments/760147971861643273/1072522197375131738/R.png" style="width:20px"/></div>
 
 <br>
 <div style ="display:flex;" align="center">
