@@ -1,4 +1,4 @@
-## <div align="center">I'm Sina!<img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:20px"/></div>
+## <div align="center">I'm Sina!<img src="https://media.discordapp.net/attachments/760147971861643273/1072522197375131738/R.png?width=559&height=559" style="width:20px"/></div>
 
 <br>
 <div style ="display:flex;" align="center">
@@ -8,16 +8,16 @@
 ### <div align="center">I'm a Computer Science Enthusiast!</div>
 
 
-- 🔭 I’m currently looking for internship
+- 🔭 I’m currently researching about anti-tampers.
 
 
-- 🌱 I’m currently learning ReactJS and NodeJS
+- 🌱 I’m currently learning XAML
 
 
-- ❓ You can Email Me Through [Here](mailto:indraniko20@gmail.com)
+- ❓ 
 
 
-- ⚡ Fun fact: My Waifu is a Snek <img src="https://drive.google.com/uc?id=1z7qDiym-ygiSM3F4u1xDKgxSeH0-qAfM" style="width:20px"/>
+- ⚡ Fun Fact: My Waifu is a Snek <img src="https://drive.google.com/uc?id=1z7qDiym-ygiSM3F4u1xDKgxSeH0-qAfM" style="width:20px"/>
 
 
 <br/>  
