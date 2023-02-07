@@ -8,16 +8,17 @@
 ### <div align="center">I'm a Computer Science Enthusiast!</div>
 
 
+
 - 🔭 I’m currently researching about anti-tampers.
 
 
-- 🌱 I’m currently learning XAML
+- 🌱 I’m currently learning XAML.
 
 
-- ❓ 
+- ❓ I am 15 years old.
 
 
-- ⚡ Fun Fact: My Waifu is a Snek <img src="https://drive.google.com/uc?id=1z7qDiym-ygiSM3F4u1xDKgxSeH0-qAfM" style="width:20px"/>
+- ⚡ Fun Fact: My favourite language is Kotlin. <img src="https://th.bing.com/th/id/OIP.xWw-ikDwGWwAgHyeHwjXGAHaHa?pid=ImgDet&rs=1" style="width:20px"/>
 
 
 <br/>  
