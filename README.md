@@ -18,7 +18,7 @@
 - ❓ I am 15 years old.
 
 
-- ⚡ Fun Fact: My favourite language is Kotlin. <img src="https://th.bing.com/th/id/OIP.xWw-ikDwGWwAgHyeHwjXGAHaHa?pid=ImgDet&rs=1" style="width:20px"/>
+- ⚡ Fun Fact: My favourite language is Kotlin. <img src="https://media.discordapp.net/attachments/760147971861643273/1072532752693473431/OIP.png" style="width:20px"/>
 
 
 <br/>  
