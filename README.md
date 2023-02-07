@@ -2,8 +2,8 @@
 
 <br>
 <div style ="display:flex;" align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Kotlin_Mascot_2D_no._1.svg/800px-Kotlin_Mascot_2D_no._1.svg.png" style="width:250px"/>
-  <img src="https://static.wikia.nocookie.net/java/images/5/55/Java_Duke.gif/revision/latest?cb=20090227184041" style="width:230px"/>
+  <img src="https://media.discordapp.net/attachments/760147971861643273/1072522197047980042/Kotlin_Mascot_2D_no._1.svg.png" style="width:250px"/>
+  <img src="https://media.discordapp.net/attachments/760147971861643273/1072522197375131738/R.png" style="width:250px"/>
 </div>
 
 ### <div align="center">I'm a Computer Science Enthusiast!</div>
