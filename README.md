@@ -6,6 +6,7 @@
 ### <div align="center">I'm Sina, a hobbyist freelance developer 👨‍💻 working remotely since 2018🚀</div>  
   
 
+
 - 🔭 I’m currently working on [WeAreDevs API V2](https://github.com/rishavanand/github-profilinator)  
   
 
@@ -92,11 +93,12 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JohnSinaDev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-  
+
+
 
 <br/>  
 
-<details></details>  
+  
 
 <br/>  
 
@@ -109,5 +111,3 @@
 
 
 <br />
-
-----
