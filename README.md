@@ -1,4 +1,4 @@
-## <div align="center">I'm Sina!<img src="" style="width:20px"/></div>
+## <div align="center">I'm Sina!</div>
 
 <br>
 <div style ="display:flex;" align="center">
